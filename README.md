@@ -18,8 +18,8 @@ div {
 <p style="color:white;">Laning phase can be difficult to think through.Its also one of the most influencial phases of the game and for many players its the reason why they lose games or why they win games.This video above showcases animation cancels,auto attack resets,and other tips to help you strategize against your laners.</p>
 
 <br><br><br>
-<h2 style="color:white;"><b></b></h2>
-<p style="color:white;"></p>
+<h2 style="color:white;"><b>Early game Lane Phase</b></h2>
+<p style="color:white;">The early game can influence your games very heavily,as they can give you a lead,but does not mean it ensures victory.Early game is a test to see whether you can withstand being tilted or can carefully make your way to mid game without any casualties.</p>
 
 <br><br><br>
 <h2 style="color:white;"><b></b></h2>
