@@ -19,7 +19,7 @@ div {
 
 <br><br><br>
 <h2 style="color:white;"><b>Early game Lane Phase</b></h2>
-<p style="color:white;">The early game can influence your games very heavily,as they can give you a lead,but does not mean it ensures victory.Early game is a test to see whether you can withstand being tilted or can carefully make your way to mid game without any casualties.</p>
+<p style="color:white;">The early game can influence your games very heavily,as they can give you a lead,but does not mean it ensures victory.Early game is a test to see whether you can withstand being tilted or can carefully make your way to mid game without as less casualties as possible.</p>
 
 <br><br><br>
 <h2 style="color:white;"><b></b></h2>
