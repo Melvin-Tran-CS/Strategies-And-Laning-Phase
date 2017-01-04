@@ -22,12 +22,12 @@ div {
 <p style="color:white;">The early game can influence your games very heavily,as they can give you a lead,but does not mean it ensures victory.Early game is a test to see whether you can withstand being tilted or can carefully make your way to mid game without as less casualties as possible.</p>
 
 <br><br><br>
-<h2 style="color:white;"><b></b></h2>
-<p style="color:white;"></p>
+<h2 style="color:white;"><b>Thinking outside the box</b></h2>
+<p style="color:white;">In lane phase,you dont want to always just think about your own lane.Other lanes can influence another as well such as a top laner roaming down mid.You never want to think that its a fair fight unless you clearly see the other laners in their designated lanes.</p>
 
 <br><br><br>
-<h2 style="color:white;"><b></b></h2>
-<p style="color:white;"></p>
+<h2 style="color:white;"><b>Mechanical skill</b></h2>
+<p style="color:white;">As "important" as many people think it is,its actually quite the opposite.Mechanical skill cannot give you a full understanding of how the game works so as long as you focus so much into it.To a certain extent,it is important,however not as much as decision making or better choice of items.Mechanical skill can be a core part to lane phase though,and I personally think that you should have enough mechanical skill to get through lane phase,but you should never skip over decision making and choice of items for the cost of mechanical skill.However if you know that you are good in everything else and just need to improve on mechanical skill,then I can only tell you one thing.Practice.Practice is the only way to improve your mechanical skill and if you dont know how to or cant often,I reccommend watching streams or videos to improve yourself.</p>
 
 </body>
 
