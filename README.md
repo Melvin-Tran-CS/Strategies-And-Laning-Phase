@@ -12,7 +12,7 @@ div {
 <body background="http://na.leagueoflegends.com/sites/default/files/upload/art/morgana_vs_ahri_3.jpg">
 <h1 style="color:white;"><b>Strategies and Laning Phase</b></h1>
 
-
+<iframe width="400" height="300" src="https://www.youtube.com/embed/N3of74pTLNk" frameborder="0" allowfullscreen></iframe>
 
 <br>
 <p style="color:white;">Laning phase can be difficult to think through.Its also one of the most influencial phases of the game and for many players its the reason why they lose games or why they win games.This video above showcases animation cancels,auto attack resets,and other tips to help you strategize against your laners.</p>
